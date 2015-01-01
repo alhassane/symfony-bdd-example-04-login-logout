@@ -3,7 +3,7 @@ How to run the project?
 
 This example is explained in
 the post
-[Symfony/BDD example 04: login/logout](???).
+[Symfony/BDD example 04: login/logout](/2015/01/01/bdd-example-login-logout.html).
 
 ##1. Preliminary step
 
